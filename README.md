@@ -64,3 +64,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## vue
 => https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation/guide/laravel-integration/installation.html
+
+## use full URl
+=> https://vue-multiselect.js.org/
+=> https://www.tiny.cloud/docs/integrations/vue/
+=> https://github.com/lekhang2512/vue-upload-multiple-image
